@@ -33,5 +33,5 @@ web applications.
 ## Connect With Me
 
 - GitHub: https://github.com/febriando
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
+- LinkedIn: https://www.linkedin.com/in/febriando-manik-b58b51244/
+- Portfolio: http://fmanik.com/
