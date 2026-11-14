@@ -1,17 +1,37 @@
-[## Hi there 👋
 
-<!--
-**febriando/febriando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Febriando Manik 👋
 
-Here are some ideas to get you started:
+### Full Stack Developer | Backend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://github.com/febriando)
+I am a software developer focused on building reliable,
+scalable, and maintainable business applications.
+
+I enjoy designing backend systems, developing RESTful APIs,
+optimizing database performance, and building modern
+web applications.
+
+## Technical Skills
+
+- **Languages:** Go, PHP, JavaScript
+- **Backend:** CodeIgniter 4, Laravel, REST API, JWT
+- **Frontend:** Vue.js, HTML, CSS, Tailwind CSS
+- **Database:** MySQL, MariaDB
+- **Tools:** Git, GitHub, Docker, Linux
+
+## Selected Projects
+
+- Hosting & Provisioning Dashboard
+- High-Concurrency Support Ticket API
+- Personal Portfolio CMS
+
+## Professional Experience
+
+- Backend Developer — PT IndoWebhost Kreasi
+- Independent Study — Backend Engineering, Ruangguru
+- Full Stack Development Intern — Xtend Integrasi Indonesia
+
+## Connect With Me
+
+- GitHub: https://github.com/febriando
+- LinkedIn: [Your LinkedIn URL]
+- Portfolio: [Your Portfolio URL]
